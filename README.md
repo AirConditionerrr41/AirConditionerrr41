@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AirConditionerrr41
+- 👋 Hi, I’m Alicia!
 - 👀 I’m interested in coding and using software as a means of creativity!
 - 🌱 I mostly work in Ruby, Python, Java, and HTML.
 - 🏹 Outside of code, I like to write poetry and be out in nature.
