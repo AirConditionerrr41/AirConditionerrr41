@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Alicia!
-- 👀 I’m interested in coding and using software as a means of creativity!
-- 🌱 I mostly work in Ruby, Python, Java, and HTML.
-- 🏹 Outside of code, I like to write poetry and be out in nature.
-- 💻 I'm currently working on a horror RPG
-
+Hey! 
+I’m [Alicia](https://aliciachr.carrd.co/), an amateur software engineer based in Seattle.
 <!---
 AirConditionerrr41/AirConditionerrr41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
